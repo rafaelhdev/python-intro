@@ -10,6 +10,6 @@ if a == b:
     print('Você acertou!!!')
 else:
     print(f'Eu pensei no {a} e você escreveu {b}.')
-    print('Número errado. Tente novamente, parça!')
+    print('Número errado. Tente novamente, usuário!')
 
 

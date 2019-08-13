@@ -1,0 +1,5 @@
+n = float(input('Digite uma medida em metros: '))
+print(f'A medida em metros digitada foi {n:.2f} m.')
+print(f'A medida em centímetros é {n*100:.2f} cm.')
+print(f'A medida em km é {n/1000:.5f} km.')
+print(f'A medida em hm é {n/100:.2f} hm.')
